@@ -26,7 +26,7 @@ Technical Stack
 - pickle: For loading pre-processed data (movie list and similarity matrix).
 - requests: To fetch movie posters from the TMDB API.
 - Streamlit: For building and running the web app.
-- 
+  
 ### Folder Structure
 - app.py: Contains the main logic for the web app.
 - artifacts/: Includes pre-trained models and datasets such as movie_list.pkl and similarity.pkl.
